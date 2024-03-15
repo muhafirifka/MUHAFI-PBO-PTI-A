@@ -1,15 +1,16 @@
 # 📁 Tugas 3 : Class Diagram
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : muhafi rifka pratama              
+NIM  : 235150607111004
 
 ## 📤 Submission
 
 Tema yang dipilih : 
 Class Diagram yang dibuat : 
-1. Class Diagram 1
-2. Class Diagram 2
+1. Class Diagram bus
+2. Class Diagram montor
+3. Class Diagram Mobil
 dst
 
 ## 🔗 Link Penjelasan Tugas
