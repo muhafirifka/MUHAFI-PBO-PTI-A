@@ -1,8 +1,8 @@
 # 📁 Tugas 5 : Encapsulation
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Muhafi Rifka Pratama            
+NIM  : 235150607111004
 
 ## 🔗 Link Penjelasan Tugas
 
